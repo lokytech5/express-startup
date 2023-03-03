@@ -1,14 +1,14 @@
 Getting Started with Express, Body-Parser, EJS, MongoDB, and Mongoose
 Hello, I am Lokosman, a backend developer. In this guide, I will help you get started with building web applications using Express, Body-Parser, EJS, MongoDB, and Mongoose. These popular Node.js packages are essential for creating robust and scalable web applications.
 
-Prerequisites
+## Prerequisites
 Before getting started, make sure you have the following installed on your computer:
 
-Node.js
-npm (Node Package Manager)
-MongoDB
+## Node.js
+- npm (Node Package Manager)
+- MongoDB
 
-Express, Body-Parser, EJS, and Mongoose Installation
+## Express, Body-Parser, EJS, and Mongoose Installation
 To install the packages, follow these steps:
 
 Open the terminal or command prompt on your computer.
@@ -26,7 +26,7 @@ npm install ejs
 Run the following command to install Mongoose:
 npm install mongoose
 
-Getting Started with MongoDB
+# Getting Started with MongoDB
 To get started with MongoDB, follow these steps:
 
 Open the terminal or command prompt on your computer.
